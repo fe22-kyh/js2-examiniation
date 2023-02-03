@@ -115,7 +115,7 @@ För samtliga nivåer är det tillåtet att använda valfritt medel för att hä
 För betyget godkänt ska det implementeras en hemsida med hjälp av ett ramverk där det går att navigera kategorierna people, planets, films, species, vehicles och starships med tillhörande egenskaper för respektive entitet. Samtliga data ska inhämtas asynkront via SWAPI API:et.
 
 #### Väl godkänt
-För betyget väl godkänt ska samtliga krav för godkänt vara uppfyllda. Sidan ska vidare implementeras som en SPA (single page application, se respektive ramverks dokumentation). Det ska även finns ett sökfält där användaren kan söka efter någon entitet under vald kategori.
+För betyget väl godkänt ska samtliga krav för godkänt vara uppfyllda. Sidan ska vidare implementeras som en SPA (single page application, se respektive ramverks dokumentation). Det ska även finns ett sökfält där användaren kan söka efter någon entitet under vald/samtliga kategori(er).
 
 
 ### Återkoppling
